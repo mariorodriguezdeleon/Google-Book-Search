@@ -8,10 +8,11 @@ import React from "react";
 //   "backgroundSize": "cover",
 //   position: "relative"
 // }
+// style={headerStyle} add to <header> tag when ready
 
 function Header() {
     return (
-        <header style={headerStyle}>
+        <header >
             <h1>(React) Google Books Search</h1>
             <p>Search for and Save Books of Interest</p>
         </header>
