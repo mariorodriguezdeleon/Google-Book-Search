@@ -12,4 +12,4 @@ it to their favorites. Users are also able to view their saved books.
 * Mlab
 
 # Try out the app
-![Google-Book-Search](https://google-book-search-mario.herokuapp.com/)
+[Google-Book-Search](https://google-book-search-mario.herokuapp.com/)
